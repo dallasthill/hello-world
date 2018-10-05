@@ -1,2 +1,3 @@
 # hello-world
-Just another newb repository
+
+Figuring out how to use github through tutorials.
